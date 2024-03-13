@@ -16,9 +16,9 @@ Sou Grazielle Dias, estudante de Análise e desenvolvimento de sistemas pela Uni
 
   #Contato
   
-  [E-mail](dias.grazielle@hotmail.com)
+  [E-mail](mailto:dias.grazielle@hotmail.com)
   
-  [LinkedIn](www.linkedin.com/in/graziellesantosdias)
+  [LinkedIn](https://www.linkedin.com/in/graziellesantosdias)
 
   Agradeço novamente pela visita. Espero que você encontre algo que te inspire ou desperte seu interesse!
 
