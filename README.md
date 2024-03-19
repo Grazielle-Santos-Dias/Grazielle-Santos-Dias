@@ -1,4 +1,4 @@
-# Bem vindo ao meu Repositório!
+# Bem vindo(a) ao meu Repositório!
 Olá! 
 Este é um espaço especial onde compartilho alguns dos meus projetos, ideias  e experiências que são significativas para mim. Se você está aqui, obrigada por dedicar um tempo para explorar meu repositório.
 
